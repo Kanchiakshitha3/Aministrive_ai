@@ -1,0 +1,5 @@
+{
+  "name": "Administrative AI Agent",
+  "description": "An AI-powered administrative tool for educators. It features a question paper generator for classes 1-5 and a student performance mailer to automatically draft failure alert emails.",
+  "requestFramePermissions": []
+}
